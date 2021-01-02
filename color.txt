@@ -1,0 +1,17 @@
+#ffffff Blanc
+#0000ff Bleu
+#000000 Noir
+#ff0000 Rouge
+#00ff00 Vert
+#18698a Arranc
+#5b2f0f Brun
+#ffff00 Jaune
+#c0c0c0 Gris
+#008000 Vert Ecr
+#e26e4c Rouge Band
+#1e741d Vert Gob
+#ffff39 Jaune Mons
+#2a6cb7 Bleu Band
+#f4ca9c Beige Skaven
+#ffddd4 Beige Imp
+#596101 Vert Forest
